@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\ChatBot_TCP\bin\Debug\net5.0\ChatServer_TCP.exe
+C:\Users\user\source\repos\ChatBot_TCP\bin\Debug\net5.0\ChatServer_TCP.deps.json
+C:\Users\user\source\repos\ChatBot_TCP\bin\Debug\net5.0\ChatServer_TCP.runtimeconfig.json
+C:\Users\user\source\repos\ChatBot_TCP\bin\Debug\net5.0\ChatServer_TCP.runtimeconfig.dev.json
+C:\Users\user\source\repos\ChatBot_TCP\bin\Debug\net5.0\ChatServer_TCP.dll
+C:\Users\user\source\repos\ChatBot_TCP\bin\Debug\net5.0\ref\ChatServer_TCP.dll
+C:\Users\user\source\repos\ChatBot_TCP\bin\Debug\net5.0\ChatServer_TCP.pdb
+C:\Users\user\source\repos\ChatBot_TCP\obj\Debug\net5.0\ChatServer_TCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ChatBot_TCP\obj\Debug\net5.0\ChatServer_TCP.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ChatBot_TCP\obj\Debug\net5.0\ChatServer_TCP.AssemblyInfo.cs
+C:\Users\user\source\repos\ChatBot_TCP\obj\Debug\net5.0\ChatServer_TCP.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ChatBot_TCP\obj\Debug\net5.0\ChatServer_TCP.dll
+C:\Users\user\source\repos\ChatBot_TCP\obj\Debug\net5.0\ref\ChatServer_TCP.dll
+C:\Users\user\source\repos\ChatBot_TCP\obj\Debug\net5.0\ChatServer_TCP.pdb
+C:\Users\user\source\repos\ChatBot_TCP\obj\Debug\net5.0\ChatServer_TCP.genruntimeconfig.cache

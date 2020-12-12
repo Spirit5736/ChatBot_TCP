@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ChatClient_TCP/1.0.0": {
+        "runtime": {
+          "ChatClient_TCP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ChatClient_TCP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
